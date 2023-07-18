@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Statistics mental disorders</title>
+    <link rel="stylesheet" type= "text/css" href="static/styles/styles1.css">
+</head>
+<body>
+<div class="title"><H1>Naše projekty</H1></div>
+    <div class="Us">
+    <a class="V" href="https://www.linkedin.com/in/v%C3%A1clav-voclon-832276106/?originalSubdomain=sk">
+    <h2 >Bc. Václav Voclon</h2>
+    </a>
+    <a class="K" href="https://www.linkedin.com/in/kl%C3%A1ra-meli%C5%A1ov%C3%A1-a74066254/?originalSubdomain=sk">
+        <h2>Bc. Klára Melišová</h2>
+    </a>
+    <a class="S" href="https://www.linkedin.com/in/alexandra-meli%C5%A1ov%C3%A1-403b46265/"> 
+        <h2>Mgr. Alexandra Melišová</h2>
+    </a>
+    </div>
+    <div class="hr"><hr class="line"></div>
+    <div class="Projekt_1">
+    <a style="text-decoration:none" href={{url_for("table")}} class="Text_1"><h4 class="first">Projekt 1</h4><h5 class="second">Rozdiel vo výskyte mentálnyh ochorení v poslednom dostupnom roku a pred desiatimi rokmi.
+    </h5><p>Tento projekt porovnáva prevalenciu rôznych mentálnych ochorení a závislostí z dát dostupných na stránke ourworldindata.org. Pomocou testu Shapiro-Wilk test otestuje normálne rozloženie dát pre jednotlivé ochorenia a pomocou vytvorenej funkcie vyberie vhodný test, ktorý bude využitý na porovnanie prevalencie týchto ochorení medzi posledným dostupným rokom v dátach a situáciou pred desiatimi rokmi. Následne vytvorí tabuľku s deskriptívnou štatistikou, výslednými hodnotami testu Shapiro-Wilk test a taktiež tabuľku s výslednými hodnotami štatistického testu (pre normálnu distribúciu - Studentov t-test, pre nie normálnu distribúciu - Wilcoxon test). Ak je výsledná p-hodnota menšia ako 0.05, zamietneme hypotézu, že medzi rokmi 2019 a 2009 neexistuje vo výskyte mentálnych ochorení štatisticky významný rozdiel. Odkaz na Github:</p>
+</a>
+</div>
+    <div class="Projekt_2">
+    <a style="text-decoration:none" href="https://github.com/sasamelisova/The-pong-game" class="Text_2"><h4 class="first">Projekt 2</h4><h5 class="second">The pong game</h5><p>Pong je jedna z prvých hier, ktorá uzrela svetlo sveta na arkádových coin-op automatoch v roku 1972. Hra je pre dvoch hráčov, ovládaná písmenami "wsad" a "ijkl". Za každú nechytenú loptu dostáva protihráč bod na tabuli skóre. </p>
+    </a></div>
+    <div class="Projekt_3">
+        <a style="text-decoration:none" href="https://github.com/sasamelisova/Notification-when-data-incubator-job-offer-is-available" class="Text_3"><h4 class="first">Projekt 3</h4><h5 class="second">Automatické vyhľadávanie pracovnej pozície data inkubátoru na stránke komerční banka.cz.</h5>
+            <p>S využitím selenium program otvori stranku kb.jobs.cz. Prekliká sa do podstranky s vyhladavanim podla textoveho pola. Vyhľadáva slovo: incubator. Všetky výsledky vloží do listu. Prehľadá list, či sa v ňom nachádza data incubátor. Ak áno, odošle notifikačný email.
+                </p></a></div>
+    </body>
+</html>

@@ -1,0 +1,107 @@
+h1{text-align: center;
+    color: azure;
+    }
+    .title{
+        background-color: #472D2D;
+        position: relative;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        margin-top: -2%;
+        margin-left: -2%;
+        margin-right: -2%;
+    }
+    .Us{
+        align-items: center;
+        background-color: #553939;
+    }
+    .V{
+        position: absolute;
+        left: 3%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    .K{
+        position: absolute;
+        left: 40%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    
+    .S{
+        position: absolute;
+        left: 75%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    .first{
+        font-size: 22px;
+    }
+    .second{
+        font-size: 18px;;
+    }
+    .Text_1{
+        color:azure;
+        text-underline-offset: auto;
+        position: absolute;
+        background-color: #D5B4B4;
+        font-size: 17px;
+        text-align: center;
+    }
+    .Projekt_1{
+        position: absolute;
+        margin-top: 4%;
+        margin-left: -0.7%;
+        padding-right: 1220px;
+        margin-right: -0.7%;
+    }
+    .Text_2{
+        color: #867070;
+        text-underline-offset: auto;
+        position: absolute;
+        background-color: #E4D0D0;
+        font-size: 17px; 
+        text-align: center;
+    }
+    .Projekt_2{
+        position: absolute;
+        top: 82.5%;
+        margin-left: -0.7%;
+        padding-right: 1220px;
+        margin-right: -0.7%;
+    }
+    .hr{
+        top: 100%;
+    }
+    .Projekt_3{
+        position: absolute;
+        top: 113%;
+        margin-left: -0.7%;
+        padding-right: 1220px;
+        margin-right: -0.7%;
+        
+    }
+    .footer{
+        background-color: #A77979;
+        padding-bottom: 3%;
+        margin-left: -5%;
+        margin-right: -5%;
+    }
+   
+    .Text_3{
+        color:azure;
+        text-underline-offset: auto;
+        position: absolute;
+        background-color: #553939;
+        padding-bottom: 50px;
+        font-size: 17px;
+        text-align: center;
+    }
+    .git{
+        position: relative;
+        top: 100px;
+        left: 95%;
+
+    }
