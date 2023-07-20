@@ -65,20 +65,18 @@ h1{text-align: center;
         text-align: center;
     }
     .Projekt_2{
-        position: absolute;
+        position: relative;
         top: 58%;
         margin-left: -0.7%;
-        padding-right: 1800px;
         margin-right: -0.7%;
     }
     .hr{
         top: 100%;
     }
     .Projekt_3{
-        position: absolute;
+        position: relative;
         top: 77%;
         margin-left: -0.7%;
-        padding-right: 1800px;
         margin-right: -0.7%;
         
     }
