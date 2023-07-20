@@ -51,7 +51,7 @@ h1{text-align: center;
         text-align: center;
     }
     .Projekt_1{
-        position: relative;
+        position: absolute;
         margin-top: 3%;
         margin-left: -0.7%;
         margin-right: -0.7%;
@@ -65,7 +65,7 @@ h1{text-align: center;
         text-align: center;
     }
     .Projekt_2{
-        position: relative;
+        position: absolute;
         top: 58%;
         margin-left: -0.7%;
         margin-right: -0.7%;
@@ -74,7 +74,7 @@ h1{text-align: center;
         top: 100%;
     }
     .Projekt_3{
-        position: relative;
+        position: absolute;
         top: 77%;
         margin-left: -0.7%;
         margin-right: -0.7%;
