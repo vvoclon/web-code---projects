@@ -51,10 +51,9 @@ h1{text-align: center;
         text-align: center;
     }
     .Projekt_1{
-        position: absolute;
+        position: relative;
         margin-top: 3%;
         margin-left: -0.7%;
-        padding-right: 1800px;
         margin-right: -0.7%;
     }
     .Text_2{
