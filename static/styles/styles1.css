@@ -68,7 +68,7 @@ h1{text-align: center;
     .Projekt_2{
         position: absolute;
         top: 58%;
-        padding-right: 0%;
+        padding-right: initial;
         margin-left: -0.7%;
         margin-right: -0.7%;
     }
